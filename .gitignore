@@ -1,0 +1,21 @@
+.claude
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+*.so
+*.dylib
+*.egg
+*.egg-info
+dist
+build
+.DS_Store
+.idea
+.vscode
+*.log
+
+# Large data files – regenerate with: python scripts/scrape_kalshi.py
+data/*.jsonl
+data/*.json
+data/raw/
+data/.checkpoints/
