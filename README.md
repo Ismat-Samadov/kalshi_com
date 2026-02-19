@@ -3,6 +3,8 @@
 
 > **40,224 events · 157,530 market contracts · 9,438 entities · $311.9M total volume**
 > Data collected via the public Kalshi API. Fully reproducible — see [How to run](#how-to-run).
+>
+> **Full dataset available on Kaggle:** [ismetsemedov/kalshi](https://www.kaggle.com/datasets/ismetsemedov/kalshi)
 
 ---
 
@@ -178,4 +180,4 @@ python scripts/scrape_kalshi.py --resume
 
 ---
 
-*Snapshot: February 19, 2026 · Source: `api.elections.kalshi.com` (public API, no auth required)*
+*Snapshot: February 19, 2026 · Source: `api.elections.kalshi.com` (public API, no auth required) · [Full dataset on Kaggle](https://www.kaggle.com/datasets/ismetsemedov/kalshi)*
